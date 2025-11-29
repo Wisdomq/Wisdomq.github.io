@@ -4,7 +4,7 @@
 # Personal Portfolio Website
 
 This is the source code for my personal portfolio website hosted via GitHub Pages:  
-**https://YOUR_USERNAME.github.io**
+**https://Wisdomq.github.io**
 
 The website highlights my work in:
 - Deep learning  
